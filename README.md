@@ -4,6 +4,31 @@
 
 krótkie pytania i odpowiedzi
 
+## Czym różni się no code od low code
+
+
+## Czym różni się Dialogware (text2software) od no/low code (click2software)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Więcej ...
+
 + [DIALOGWARE](https://www.dialogware.com/) to tylko część całego ekosystemu [#text2software](http://text.to.software)
 
 
