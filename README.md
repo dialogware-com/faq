@@ -6,6 +6,10 @@ krótkie pytania i odpowiedzi
 
 ## Czym różni się no code od low code
 
+często są też używane inne frazy
+
++ zero coding
+
 
 ## Czym różni się Dialogware (text2software) od no/low code (click2software)?
 
@@ -59,3 +63,21 @@ krótkie pytania i odpowiedzi
 + Software-defined Storage (SDS)
 + Software-defined Networking (SDN)
 + 
+
+
+## NoCode solutions
+
+[Glide • No Code App Builder • Nocode Application Development](https://www.glideapps.com/)
+
+> Glide instantly creates the first version of your app based on your data, wherever it lives.
+
+[Glide • AI App Generator](https://www.glideapps.com/research/ai-generator)
+
+> ## Detecting data types and generating data
+> 
+> Next, we needed to figure out how to detect column data types and generate data (including data thats spans across tables).
+> 
+> ### Detecting data types
+> 
+> Detecting data types turned out to be easy, since we could just add data types to the examples we gave to GPT-3. For example:
+> 
