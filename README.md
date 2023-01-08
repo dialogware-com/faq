@@ -13,6 +13,12 @@ często są też używane inne frazy
 
 ## Czym różni się Dialogware (text2software) od no/low code (click2software)?
 
+Rozwiaznia click2software ułatwiają na ręczne wygenerowanie plaikacji poprzez templates i gotowe generatory danych i integracji
+
+text2software nie wymaga interakcji z użytkownikiem na poziomie wyglądu, nie wymaga więc wiedzy o UI/UX
+wystarczy wiedza domena, oczekiwania stojące przez adplikacją.
+Wobec tego wszelkie informacje o wyglądzie i działaniu aplikacji trzeba dostarczyć w formie tekstu lub pozyskać w formie tekstowej, ewentualnie wygenerować 
+a na jej bazie dopiero powstanie gotowa aplikacja, którą użytkownik może w ciągu minut od dostarczenia tekstu używać.
 
 
 
